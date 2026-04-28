@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Rhi 👋
 
-<!--
-**Rhi637/Rhi637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Frontend Developer | React Enthusiast
+- Building open-source projects for the EV charging ecosystem
+- Currently working on [ev-charging-platform](https://github.com/Rhi637/ev-charging-platform)
 
-Here are some ideas to get you started:
+## 🚀 Projects
+### ⚡ [ev-charging-platform](https://github.com/Rhi637/ev-charging-platform)
+A smart EV charging management platform built with React 19 + Vite 8 + Tailwind CSS v4.
+Features AI scheduling, V2G bidirectional charging, and real-time monitoring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[🌐 Live Demo](https://rhi637.github.io/ev-charging-platform/) | [▶️ YouTube](https://youtu.be/WXWEZkXSj6M) | [▶️ Bilibili](https://www.bilibili.com/video/BV1wGoMBiEcB/)
+
+## 🛠 Tech Stack
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
+![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?logo=javascript)
+
+## 📫 Find Me
+- [掘金](https://juejin.cn) | [知乎](https://www.zhihu.com) | [Bilibili](https://www.bilibili.com)
