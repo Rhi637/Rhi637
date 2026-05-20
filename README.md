@@ -19,4 +19,4 @@ Features AI scheduling, V2G bidirectional charging, and real-time monitoring.
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?logo=javascript)
 
 ## 📫 Find Me
-- [掘金](https://juejin.cn) | [知乎](https://www.zhihu.com) | [Bilibili](https://www.bilibili.com)
+- [掘金](https://juejin.cn/user/1804773618624137) | [知乎](https://www.zhihu.com/people/awr-80) | [Bilibili](https://space.bilibili.com/1170615348)
